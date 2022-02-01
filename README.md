@@ -1,1 +1,1 @@
-# MathProject
+# Math Project
